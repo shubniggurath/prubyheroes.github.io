@@ -5,8 +5,8 @@
     <description>&lt;h3&gt;Hello, world!&lt;/h3&gt;&lt;h1&gt;prubyheroes journal&lt;/h1&gt;&lt;h3&gt;Al 100 y pasadito!!&lt;/h3&gt;</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 03 Aug 2017 16:07:38 -0500</pubDate>
-    <lastBuildDate>Thu, 03 Aug 2017 16:07:38 -0500</lastBuildDate>
+    <pubDate>Thu, 17 Aug 2017 17:52:28 -0500</pubDate>
+    <lastBuildDate>Thu, 17 Aug 2017 17:52:28 -0500</lastBuildDate>
     <generator>Jekyll v3.5.1</generator>
     
   </channel>
